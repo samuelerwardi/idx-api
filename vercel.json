@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/proxy-idx", "destination": "/api/idx" }
+  ]
+}
+
